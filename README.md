@@ -1,0 +1,1 @@
+This repository contains MATLAB code for simulating head impacts in Finite Element Analysis (FE). The project aims to model the biomechanical behavior of the human head during dynamic impacts and analyze the resulting stress and strain distribution.
